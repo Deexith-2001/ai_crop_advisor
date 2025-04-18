@@ -1,0 +1,6 @@
+Crop,Season,Soil,Min_Rainfall,Max_Rainfall,Min_pH,Max_pH
+Rice,Kharif,Clay,1000,2000,5.5,7.0
+Wheat,Rabi,Loamy,500,1000,6.0,7.5
+Maize,Kharif,Sandy,400,800,5.5,7.5
+Barley,Rabi,Loamy,300,600,6.0,7.5
+Cotton,Kharif,Sandy,600,1200,5.5,7.0
